@@ -1,4 +1,4 @@
-Languages used in project
+<h3>Languages used in project</h3>
 <br>
 * HTML
 * css
