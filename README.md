@@ -1,5 +1,5 @@
 Languages used in project
 <br>
-*HTML
-*css
+* HTML
+* css
 * JAvascript
